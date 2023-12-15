@@ -21,5 +21,7 @@
    ![task 5](https://github.com/eriksar/HM_animals/assets/123926096/7a615fb7-3212-4ef9-b688-66462bef700b)
 
    В подключенном MySQL репозитории создать базу данных “Друзья человека”
-
+   
+```mysql
 CREATE DATABASE Human_friends;
+```
